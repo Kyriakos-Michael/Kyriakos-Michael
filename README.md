@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NestJS
+- 🔭 I’m currently working on Online Booking Project.
+- 🌱 I’m currently learning Astro.build!
 - 👯 I’m looking to collaborate on Javascript Projects
 - 🤔 I’m looking for help with open source UI Libraries
 - 💬 Ask me about anything!
 - 📫 How to reach me: kyriakosmichail@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Key_michael
 - ⚡ Fun fact: Porsche? 
 
 
